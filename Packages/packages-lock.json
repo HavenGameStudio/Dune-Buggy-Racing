@@ -1,5 +1,15 @@
 {
   "dependencies": {
+    "com.singularitygroup.hotreload": {
+      "version": "https://github.com/HavenGameStudio/HotReload.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0",
+        "com.unity.modules.unitywebrequest": "1.0.0"
+      },
+      "hash": "fae2bd39bb124f973e21e341946359a61b7bd3fb"
+    },
     "com.unity.collab-proxy": {
       "version": "2.10.0",
       "depth": 0,
